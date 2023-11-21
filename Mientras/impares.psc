@@ -1,4 +1,5 @@
-Algoritmo impares
+//Algoritmo que cuenta los números impares entre el 1 al 100 y los imprime 
+Algoritmo Impares
 	Definir numero, contadorimpares Como Entero;
 	numero <- 1;
 	contadorimpares <- 0;
@@ -9,5 +10,5 @@ Algoritmo impares
 		FinSi
 		numero <- numero + 1;
 	FinMientras
-	Escribir "El n�mero de impares es: ", contadorimpares," :D";
+	Escribir "El número de impares es: ", contadorimpares," :D";
 FinAlgoritmo
